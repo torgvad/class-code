@@ -1,1 +1,2 @@
-# class-code
+# Assignment code
+This is a collection of noteworthy assignments from different classes I took at BVU. Most of these assignments are copies of what I submitted so keep in mind that these were made with time constraint, having to juggle other classes, and with varying levels of skill (since these assignments range from first year of BVU to my last). Any assignments that have been edited since their submission will have the edited file contain "improved" in the title along with the original submission as a contrast. 
